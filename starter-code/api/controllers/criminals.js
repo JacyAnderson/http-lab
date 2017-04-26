@@ -2,6 +2,7 @@ var Criminal = require('../models/Criminal');
 
 // GET
 function getAll(request, response) {
+  console.log("in getAll");
   Criminal.find(function(error, criminals) {
     if(error) response.json({message: 'Could not find any criminal'});
 

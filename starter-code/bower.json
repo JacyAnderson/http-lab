@@ -1,0 +1,17 @@
+{
+  "name": "starter-code",
+  "homepage": "https://github.com/JacyAnderson/http-lab",
+  "authors": [
+    "JacyAnderson <jacyjamesanderson@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
